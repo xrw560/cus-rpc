@@ -20,7 +20,7 @@
         <!-- RPC Sample Client -->
         <dependency>
             <groupId>cn.itcast.rpc</groupId>
-            <artifactId>rpc-sample-client</artifactId>
+            <artifactId>rpc-sample-interface</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
